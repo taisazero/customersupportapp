@@ -2,7 +2,7 @@ package com.wrox;
 
 public class Attachment
 {
-    private String name;
+  // LONG LIVE ZERO  private String name;
 
     private byte[] contents;
 
